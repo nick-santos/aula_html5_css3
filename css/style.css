@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(255, 245, 240);
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+nav {
+    margin-top: 40px;
+    font-size: 20px;
+    background: rgb(255, 255, 255);
+}
+
+header {
+    margin-top: 60px;
+}
+
+.img_padrao {
+    margin-bottom: 20px;
+}
+
+.logo {
+    margin-right: 10px;
+}
+
+h1 {
+    color: rgb(55, 170, 216);
+    font-family: Impact;
+    font-size: 40px;
+    margin-left: 60px;
+}
+
+h2 {
+    color: rgb(194, 52, 27);
+    font-family: Arial; 
+    margin-left: 60px;
+}
+
+p {
+    font-size: 18px;
+}
+
+footer {
+    margin-top: 200px;
+    margin-bottom: 30px;
+    background: rgb(255, 255, 255);
+}
